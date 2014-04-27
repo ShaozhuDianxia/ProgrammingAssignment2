@@ -1,5 +1,8 @@
 ### Introduction
 
+(In case someone looked at this file for the description of my function, this is 
+the wrong please. Please see my cachematrix.R file for both my code and its description.)
+
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
 For example, taking the mean of a numeric vector is typically a fast
